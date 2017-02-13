@@ -1,2 +1,7 @@
 [project]
 name = okestonia
+
+[servers.manual]
+enabled = yes
+default = yes
+target = ghpages://okestonia/okestonia.github.io
