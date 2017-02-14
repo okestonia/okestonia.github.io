@@ -5,3 +5,13 @@ name = okestonia
 enabled = yes
 default = yes
 target = ghpages://okestonia/okestonia.github.io
+
+[alternatives.en]
+name = English
+primary = yes
+locale = en_US
+
+[alternatives.ee]
+name = Estonian
+url_prefix = /ee/
+locale = ee

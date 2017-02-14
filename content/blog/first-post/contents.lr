@@ -1,9 +1,9 @@
-title: Hello Website
+title: Pinned!
 ---
 pub_date: 2017-02-13
 ---
 author: nvitucci
 ---
-body:
-
-This is an example blog post.  Not much here but that's not the point :)
+body: This is an example pinned blog post.
+---
+pinned: yes
