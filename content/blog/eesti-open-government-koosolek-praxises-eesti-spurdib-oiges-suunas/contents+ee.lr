@@ -1,0 +1,55 @@
+author: Tanel Kärp
+---
+body:
+
+Teisipäeval, 22. märtsil 2011 toimus [Praxise](http://www.praxis.ee/) ja Avatud andmete kogukonna eestvedamisel avatud riigiandmete, ehk Open Government Data temaatiline koosviibimine, kuhu oli kogunenud üle 20 osalise erinevatest institutsioonidest: RISOst, justiitsministeeriumist, Riigikantseleist, statistikaametist. Kohal oli arendajaid, ühiskonnategelasi ja analüütikuid, kes omavad Eestis avatud andmete kättesaadavaks tegemisel olulist rolli. Päevaplaanis olid nii ettekanded kui ka töötoa vormis ajurünnak leidmaks võimalikke rakendusi ja ootusi avaldatavate andmete suhtes.
+
+### Ettekanded
+
+**Margus Püüa**, Riigi Infosüsteemide Osakonna (RISO) juhataja, tõi välja sammud mida riik on astumas avatud andmete kättesaadavaks tegemiseks.
+
+Uudised on paljulubavad: nimelt on RISO poolt plaanis töötada välja Eesti avaliku teabe taaskasutuse (OpenData) kontseptsioon, vajadusel vajalike õigusaktide eelnõud ja esitada need aruteluks valitsusele. Samuti on loomisel soovitused riigiasutustele, kuidas teha kättesaadavaks andmed, mida saab masintöödeldavas formaadis alla laadida ja esitada need oma veebis, näiteks kujul “http://www.ministeerium.ee/opendata”. Riigiasutuste alla kuuluvad siinpuhul nii ministeeriumid, kui ka näiteks ametid ja allasutused, nagu Eesti Post.
+
+Tähtis on välja tuua ka justiitsministeeriumi esindaja kommentaar, mille järgi tänane kehtiv regulatsioon ei takista tegelikult andmete jagamist. Seega on hetkel esmavajalik tegevussuund ära määrata, kuidas neid andmeid peab jagama — täpselt see, millega RISO tegeleb.
+
+Kõigi loetud tegevuste tähtaega ei osanud RISO juhataja öelda, sõnades et “edasi liigutakse nii ruttu kui võimalik”.
+
+<embed type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=opendata-110324193311-phpapp01&amp;stripped_title=open-data-7380458&amp;userName=TanelKrp" name="__sse7380458" allowscriptaccess="always" allowfullscreen="allowfullscreen" width="425" height="355">
+
+**Daniel Vaarik**, Praxise nõukogu esimees, selgitas mis on Open Data laiem mõte.
+
+Kõneleja pidas silmas, et hea valitsemine — mida “Lääne traditsioonis” peetakse efektiivseimaks võimalikuks valitsemise vormiks — on läbipaistav. Ühiskonna erinevad osapooled peavad üksteist jälgima ja tasakaalustama, selleks on vaja info võrdset kättesaadavust. Infotehnoloogia areng on aga info liikumise segi löönud: riigil on suurem võim kodanikke jälgida kui vastupidi. Open Data võimaldaks riigialamatel selle “prožektori taas ümber keerata” ja avalikku võimu vastu jälgida — taastades sellega hea valitsemiskorra vundamendi.
+
+<embed type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=heavalitsemine-110324193317-phpapp01&amp;stripped_title=heavalitsemine&amp;userName=TanelKrp" name="__sse7380459" allowscriptaccess="always" allowfullscreen="allowfullscreen" width="425" height="355">
+
+**Henri Laupmaa**, Eesti avatud andmete kogukonna algataja, tõi eelkõneleja teoreetilise tarkuse praktiliseks eeskujuks avalike andmete taaskasutuse näited, mis mujal tehtud ja millega Eestis parasjagu tegeletakse:
+
+* **Eelarvete ja kulutuste visualiseerimine**  
+Üksikute asutuste või tegevusvaldkondade kaupa eelarvete kuvamine, KOVide eelarved.  
+Inimese maksukoormuse näitamine; kõrvutamine riigi tellitud objektide maksumusega.  
+[www.meieraha.eu](http://www.meieraha.eu/) — Avalike teenuste Garage48-s paari nädala eest alguse saanud projekt, mille teostamiseks tuli andmeid kokku koguda mitmesaja leheküljeliste dokumentide ridade vahelt.  
+* **Poliitikute töö jälgimine**  
+Hääletamismustrite, tekstide ja tegude analüüs — otseselt avaliku võimu tegevusi jälgivad veebiaplikatsioonid on riigiti olnud ühed esimesi OpenDatat kasutavad rakendused ja näikse, et nii saab ka Eestis olema.  
+[www.poliitik.eu](http://www.opendata.ee/2011-03-25/eesti-spurdib-oiges-suunas/www.poliitik.eu)
+[www.smartvote.ee](http://www.opendata.ee/2011-03-25/eesti-spurdib-oiges-suunas/www.smartvote.ee)
+* **Kogukonna-põhine info**  
+Asukohaga seotud info selle kohta, mis toimub sinu vahetus ümbruses, nt avalikudteadanded.ee põhjal.  
+[http://keskkonnateated.ee/](http://keskkonnateated.ee/) — Projekt mis demonstreerib võib-olla liigagi draagiliselt Eesti avatud andmete hetkeseisu 2011 aasta alguses: korraks ja pikkade läbirääkimiste tulemusel vabaks lastud andmevoog keerati peagi jälle kinni.  
+
+<embed type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=visualiseeringud-v2-110323041157-phpapp01&amp;stripped_title=open-government-visualiseeringu-nited&amp;userName=henri37" allowfullscreen="allowfullscreen" allowscriptaccess="always" name="__sse7355581" width="425" height="355">
+
+### Töötuba
+
+Ettekannetele järgnenud koosolemise praktilises pooles otsiti ühiselt, mis on see info, mis vajab esmajärjekorras valguse kätte toomist — mis on kodanikule huvitav ja ühiskonna läbipaistvuse jaoks vajalik?
+
+Ajurünnakute tulemisel jõuti mitmete konkreetsete mõteteni, millist tüüpi teenuseid saaks avalikkusele luua ning kaardistati, mis andmeid ja kust asutusest nende jaoks vaja on. Ideed jagunesid peamiselt kolmeks:
+
+* Kasutada ja võrrelda toorandmeid, et näha kokkuhoiu kohti. Näiteks eraisikute või suurte ettevõtete energiatarbimise andmeid. Energia näitel leiti ka, et selliste andmete avaldamine töötaks kaasa näiteks Eesti Energia missioonile, milleks on elektriraiskamise vähendamine.
+* Luua seoseid eri registrite vahel, et tekiks uut infot. Näiteks maa-katastri ja äriregistri andmete alusel saab teada maatüki omaniku. Taaskord jõuti klassikalise punktini, mille järgi avaldub avatud andmete õige võlu alles nende kombineerimisel. Selline tegevus poleks taas kasulik mitte ainult riigialamale, vaid ka andmeid jagavale asutusele, kes näeks oma tegevuse tagajärgi laiemas kontekstis. Samas tuli siin välja ka OpenData ohtlik pool: erinevate andmekogude kombineerimisel võib saada tulemusi, mis ei peaks avalikkusele teada olema. Kuidas selle vastu võidelda?
+* Kasutada juba töödeldud infokogumeid, et neid kergesti enda vajadustele kohandada. Esialgu tundub, et see idee läheb vastuollu [OpenData põhimõtele](http://www.opendata.ee/mis-on-open-data/), mille järgi peavad andmed pärinema algallikast ning olema töötlemata. Ent samas ei ütle keegi, et avaldatud andmeid kasutav osapool ei tohiks oma töödeldud data-kogu jälle välja jagada, et teised saaks seda omakorda kasutada — õigupoolest peaks see olema tunnustatud teguviis.
+
+Koosolemise kokkuvõtteks võib nentida positiivset asjaolu, et teadlikkus OpenData põhimõttest on õigetes ringkondades olemas ning ringi liikumas. Esimeste andmepakkideni avaldamiseni on veel maa minna, ent esimesed meetrid on kaetud.
+---
+pub_date: 2011-03-25
+---
+title: Open Government koosolek Praxises: Eesti spurdib õiges suunas

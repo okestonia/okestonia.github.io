@@ -1,0 +1,59 @@
+author: Tanel Kärp
+---
+body:
+
+<img class="img-alignleft" alt="Henri Laupmaa" src="http://www.opendata.ee/wp-content/uploads/2011/08/2010_henri.jpg">
+
+[Aprillikuu Arvutimaailma](http://www.am.ee/node/2104) fookuslooks oli Eesti Open Data liikumine.
+
+Alljärgnevalt avaldame artikli keskseks olnud intervjuu avatud andmete kommuuni eestvedaja Henri Laupmaaga.
+
+**Open Data teema on Eestis aktuaalseks muutunud viimase paari kuu jooksul. Mis on Open Data Eesti kogukonna eesmärk? Milles peitub Open Data võlu?**
+
+Teema on Eestis aktiivselt üsna uus. Seda on eelmisest aastast omalt poolt tähelepanu alla tõmmanud hulk tegelasi sealhulgas ka Open Data kogukond. Meie eesmärk on selle teema viimine kõigi huviliste ning riigiasutusteni, samuti heade näidete koondamine nii Eestist kui laiast ilmast.
+
+Open Data võlu on eelkõige asjades mida läbi andmete kättesaadavuse paremini teha saab, rakendusi mida seni vaid riigi organisatsioonide siseselt teha sai saavad teha muud organisatsiooni ja kodanikuühiskonna tegijad. Lisaks võimaldab see ka valdkonnaülest andmete kasutamist.
+
+Samuti on üks selle väljendusi ühiskonna toimimise läbipaistvuse suurendamine läbi riigisüsteemide monitoorimise.
+
+**Mida on võimalik õppida näiteks Soome või suurbritannia Open Data praktikast?**
+
+Soomlased kellega kohtusin möödunud nädalal olid väga üllatunud kui kiiresti asi Eestis arenenud on viimase poole aasta jooksul. Neil on mõned värsked arengud nagu [Helsinki Region Infoshare](http://www.hri.fi/en/) mille analoogi siinpool veel ei ole.
+
+Suurbritannia on selles vallas vast kõige kaugemale jõudnud. Seal on mõned aktiivsed kodanikuühiskonna & internetirakendustega tegelevad organisatsioonid nagu MySociety & Rewired State kes valdkonda arendavad. [Data.gov.uk](http://data.gov.uk/) repositoorium riigi andmete ja rakenduste kohta on ka üks paremaid riiklikke näiteid.
+
+**Millistele andmebaasidele loodate Te Eestis eelkõige juurdepääsu saada?**
+
+Oleme värskelt saanud ligipääsu Riigikogu infosüsteemile ja testimiseks saime Garage48 käigus ligi ametlike teadaannete XML’le.
+
+Soovitud andmete nimekiri on pikk. Nägime eelmisel nädalal heal meelel, et koalitsioonileppes oli lubatud [andmete avamisele kaasa aidata](http://www.opendata.ee/2011-03-24/avatud-andmed-uue-valitsuse-koalitsioonileppes/). Tahaks näha lisaks ministeeriumitele ja ametitle ka ühiskonnale oluliste riigifirmade nagu Eesti Energia andmeid.
+
+**Kuskohas peaks olema piir ühiskonna läbipaistvuse ja eraisiku privaatsuse vahel?**
+
+Selguse mõttes on Open Data defineeritud kui selliseid andmeid mis juurdepääsupiiranguid ei oma. Seega isikustatud andmed selle alla ei kuulu.
+
+Privaatsuse teema on iseenesest suur valdkond arvestades kui palju erinevad firmad ja riigiasutused meie kohta andmeid koguvad. Õnneks on see küsimus Open Data mõiste alt väljas – seega täna ei ole vaja seda sügavuti avada.
+
+**Riik on astumas mitmeid samme Open Data suunas, näiteks erinevatele andmebaasidele vaba juurdepääsu andmiseks. Kuidas vastavad need sammud Eesti Open Data kogukonna ootustele?**
+
+RISO on selles vallas juba mitmeid samme astunud aga ootame veel, et näha kui kiiresti plaanitud asjad teostuvad.
+
+Võib vaadata Margus Püüa ettekannet Praxises toimunud [Open Data ümarlaualt](http://www.opendata.ee/2011-03-25/eesti-spurdib-oiges-suunas/).
+
+**Nimetage palun mõned põnevad Open Data teemalised ideed, olgu need siis praktiliselt välismaal toimivad või teoreetiliselt eestis tehtavad, ühe andmebaasi põhised või mitmeid erinevaid andmebaase ühendavad.**
+
+UK koolide kvaliteeti visualiseeriv rakendus [www.schooloscope.com](http://www.schooloscope.com/)
+
+Reaalaegne Jaapani radiatsioonimõõtejaamu visualiseeriv sait [http://r.diim.jp/](http://r.diim.jp/)
+
+Parlamendi monitooring [http://www.theyworkforyou.com/](http://www.theyworkforyou.com/)
+
+Eestis tehtavad betajärgus olevad:
+
+Eesti Riigieelarve visualiseerija [www.meieraha.eu](www.meieraha.eu)
+
+Keskkonnateated kaardil [www.keskkonnateated.ee](www.keskkonnateated.ee)
+---
+pub_date: 2011-08-31
+---
+title: Arvutimaailm: Eesti Andmed Avalikuks!

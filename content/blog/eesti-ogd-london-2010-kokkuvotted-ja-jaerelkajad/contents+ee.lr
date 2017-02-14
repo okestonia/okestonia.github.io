@@ -1,0 +1,99 @@
+author: Tanel Kärp
+---
+body:
+
+http://www.opendata.ee/wp-content/uploads/2011/01/5246882844_b37d5a46e8_z.jpg
+
+Londoni Ülikoolis toimunud Open Government Data Camp’ist on nüüdseks möödunud pea 1,5 kuud ning aeg on küps väikeseks kokkuvõtteks toimunust. Open Data hetkeolukorrast peetud välkkõned on nähtavad videodena, samuti saab kaeda töötubade protokolle ning järeldusi.
+
+Novembri lõpus toimunud kahepäevasel, Open Data jaoks ülieduka aasta lõppu tähistaval konverentsil osales pea [200 Open Dataga ühel või teisel moel seotud inimest](http://opengovernmentdata.okfnpad.org/camp2010?) 30 riigist. Esindatud olid valitsusasutused, MTÜ-d, pangad, ajalehed, aktivistid, ülikoolid, arendajad jpt, mille tulemusel sai aimu OpenData hetkeolukorrast ning probleemidest ja võimalustest läbi kõikide osapoolte vaatevinkli — mis oli ka üks ürituse peamisi eesmärke.
+
+<iframe src="https://player.vimeo.com/video/17245954" title="Rufus Pollock" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="500" height="281" frameborder="0">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<link rel="canonical" href="https://vimeo.com/17245954">
+<title>Rufus Pollock from Open Knowledge Foundation on Vimeo</title>
+<style>
+<link rel="stylesheet" href="https://f.vimeocdn.com/p/2.50.0/css/player.css">
+<style type="text/css">
+<style data-player="ea5c4fad-de69-44d0-afd8-de08b9b8da2b">
+</head>
+<body>
+<div id="player" class="player player-ea5c4fad-de69-44d0-afd8-de08b9b8da2b js-player-fullscreen with-fullscreen with-sticky-custom-logo">
+<div class="video-wrapper">
+<div class="target hidden" hidden=""></div>
+<div class="captions hidden with-controls" aria-live="assertive" style="font-size: 13px;" hidden=""></div>
+<div class="outro-wrapper hidden" hidden="">
+<div class="controls-wrapper">
+<div class="overlay-wrapper hidden" hidden="">
+<div class="notification-wrapper hidden" hidden="">
+<div class="stats-debug rounded-box hidden" aria-hidden="true" hidden="">
+<div class="player-alert hidden" role="alertdialog" aria-label="Alert" aria-atomic="true" hidden="">
+</div>
+<script src="https://f.vimeocdn.com/p/2.50.0/js/player.js">
+<script>
+</body>
+</html>
+</iframe>
+
+
+* [Keynote kõned](http://opengovernmentdata.org/camp2010/videos/)
+* [Välkettekanded: esimene päev](http://opengovernmentdata.org/camp2010/videos/dayone/)
+* [Välkettekanded: teine päev](http://opengovernmentdata.org/camp2010/videos/daytwo/)
+
+Teine eesmärk — milleni saavutamiseks oli suurem osa konverentsist organiseeritud töötubadesse — oli jõuda konkreetsete tulemusteni: luua midagi käegakatsutavat, olgu selleks siis [uus andmepakett CKANis](http://ckan.net/), mõni aplikatsioon, manifest või manuaal. Kohalkäinuna peab tõdema, et selle teise verstapostini ei jõutud: kogunenute profiilid olid niivõrd erinevad ning enamus oli kaasa toonud oma lemmikmure, millele lahenduse leidmiseks siis töötoas põhiaur kulutati.
+
+### Töötoad:
+
+* [Andmekataloogid](http://opengovernmentdata.okfnpad.org/catalogues?) — a-la CKAN ja teised, mis ei sisalda andmeid ennist, vaid metadatat ja linke pärisdatale
+* [Andmete puhastamine](http://opengovernmentdata.okfnpad.org/datacleaning) — arutelu käis 2011 kevadel toimuva suurpuhastamise korraldamisest
+* [Legaalne Avatus](http://opengovernmentdata.okfnpad.org/legal) — millised on andmete avalikustamise legaalsed piirangud ja kohustused, nendele viitamise vajalikkus andmete jagamispunktis, andmete  tsenseerimine, kasutamisloa küsimine, juriidliste nõustajate vajalikkus protsessis, tavainimesele arusaadavate litsentsitempliitidide loomine
+* [Lingitud Open Data](http://opengovernmentdata.okfnpad.org/lod)
+* [Open government data ja juurdepääs informatsioonile](http://opengovernmentdata.okfnpad.org/ati-ogd)
+* [Open government data propageerimine](http://opengovernmentdata.okfnpad.org/advocacy) — lingis on ära toodud suur hulk võimalusteks Open Datat propageerida valitsusasutuste tasemel
+* [Uuestikasutuse propageerimine](http://opengovernmentdata.okfnpad.org/promotingreuse)
+* [Tehniline avatus](http://opengovernmentdata.okfnpad.org/technical)
+
+Paljud diskussioonid jõudsid otsapidi siiski tagasi 2-3 põhiteemani, mis konverentsil kogetu baasil tunduvad olema hetkel OGD  valdkonna põhiprobleemid:
+
+*Tagasiside*
+
+Ehk kas ja kuidas mõõta Open Data reaalset mõju ühiskonnale. Ehkki OGD kui nähtus peaks olema iseenesest mõistetav nagu elekter, kerkib probleem asjaolust, et valitsusasutuste rahataskule on vaja ette näidata reaalsed numbrid, mis kasu nende andmete avaldamisest (st. lisakulutustest) on tõusnud. Selle kasu reaalne mõõtmine on aga keeruline kui mitte võimatu. Kaks kõrvujäänud ning positiivset vastukaja leidnud ettepanekut olid
+
+1. mõõta kasu asemel “kahju”, mida asutused andmete jagamisest on saanud ning
+2. lisada andmete väljastusetapile tagasisidevorm, kuhu andmete võtja peaks lisama e-mailiaadressi. Sellele meiliaadressile saaks hiljem saata küsitluse stiilis “mida andmetega peale hakkasid ja kuidas välja on kukkunud”.
+
+Silma torkas, et räägiti enamasti just materjaalisest kasust: teistsugustest väärtustest nagu [valitsemise läbipaistvus](http://en.wikipedia.org/wiki/The_medium_is_the_message_(phrase)) vaadati mööda ega tahetud arutada — ju on need jutud juba peetud.
+
+Teise töötoa käigus aga jõuti järeldusele, et OpenDatast rääkides tuleb kindlasti vaadata kaugemale selle põhjal loodavatest rakendustest (“Apps, apps, apps! All we talk about are apps!” — [Antti Poikola](http://apoikola.wordpress.com/)), näha seda kui uut vahendit rahvastiku ja valitsemisorganite vahelise suhtluse elavdamiseks, seda just riigialamad > valitsejad suunal.
+
+*Surve valitsusasutustele ja kuidas OpenDatat propageerida*
+
+Suures osas eelmise punktiga kattuv, ent räägiti ka guerillataktikast — ühiskonnas piisava huvi loomisest OpenData suhtes, et tekiks valijatepoolne surve oma saadikutele — ning võimalikest sloganitest stiilis “you’re already doing it, make it easyer” ja “it’s not good for us, it’s good for you”. Kõrvu jäi ka suurepärane paralleel OpenData / raamatukogudega: ajalooliselt eksisteerisid raamatukogud juba ammu enne, kui lugemine laialtlevinud oskus oli.
+
+Huvitaval kombel tuli esile ka vastupidine probleem Prantsusmaalt: OpenData on küll justkui olemas, ent pole arendajaid, kes sellega midagi peale hakkaks.
+
+*Tehniline pool*
+
+Et eritemaatilised töötoad toimusid samaaegselt, polnud allakirjutanul kahjuks võimalust tehnilise poolega tegelevatel töötubadel osaleda. Alul eesmärgiks seatud konkreetsete rakenduste ja koodijuppide loomiseni konverentsi käigus kahjuks ei jõutud, ent jutuks tulid küsimused kuidas Datat juba olemasolevatest allikatest kätte saada, formaatidest (osalejate ülekaalukas lemmik tundus olema [CSV](http://en.wikipedia.org/wiki/Comma-separated_values)) ning [lingitud andmetest](http://en.wikipedia.org/wiki/Linked_Data) ehk semantilisest veebist. Kõlama jäi põhitõde, et OpenData reaalne kasu ja võlu avaldub siiski alles lingitud andmete olemasolul ja kombineerimisel.
+
+*Juriidiline pool*
+
+Palju pöörati tähelepanu ka Open Data juriidilisele poolele, alates sellest, mis õigustega saab andmeid jagada, lõpetades sellega, kas samad õigused lubavad neid andmeid ka uuesti kasutada. Lühidaks kokkuvõtteks jõuti järelduseni, et mingid legaalsed piirangud peavad Open Datal siiski olema, ning nendele ja ka kasutaja võimalikele kohustustele tuleb kindlasti viidata — ka masinale arusaadavas vormis — juba andmete jagamise punkis. Paljud esiletoodud probleemid olid tekkinud olukordadest, kus Open Data aktivistid polnud liikumisse kaasanud juriidiliselt pädevaid osapooli, mistõttu oli proovitud leiutada jalgratast olukorras, kus abi oleks olnud küsimise kaugusel.
+
+### Materjalid
+
+* [Open Government Data Camp 2010 fotod OKF Flickri kontol](http://www.flickr.com/photos/okfn/sets/72157625563216860/)
+* [Open Government Data Camp 2010 fotod Tanel Kärpi poolt](http://www.flickr.com/photos/tanelkarp/sets/72157625396061393/)
+* [Ürituse järelkaja, testimonialid, tänusõnad ning rohkem linke](http://opengovernmentdata.org/camp2010/after/)
+
+### Järgmine üritus
+
+Järgmine suurem rahvusvaheline OGD ettevõtmine **OKCon – The Open Knowledge Conference** saab toimuma Berliinis 2011 aasta juunikuus. Täpsem kuupäev ja toimumiskoht on hetkel otsustamisel — hoiame teid kursis [opendata.ee kodulehel](http://opendata.ee/) ja meilinglistis.
+---
+pub_date: 2011-01-13
+---
+title: (Eesti) OGD London 2010 kokkuvõtted ja järelkajad
