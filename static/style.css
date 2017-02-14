@@ -49,3 +49,12 @@ div.page {
     border: thin solid red;
     padding: 10px;
 }
+
+.img-center {
+    display: block;
+    margin: auto;
+}
+
+.text-center {
+    text-align: center;
+}
