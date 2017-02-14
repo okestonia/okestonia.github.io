@@ -40,3 +40,12 @@ header nav ul li {
 div.page {
     background: #f1fbfe;
 }
+
+.align-right {
+    text-align: right;
+}
+
+.pinned {
+    border: thin solid red;
+    padding: 10px;
+}
