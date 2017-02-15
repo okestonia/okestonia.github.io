@@ -51,6 +51,11 @@ div.page {
     margin-right: 20px;
 }
 
+.img-alignright {
+	float: right;
+    margin-right: 20px;
+}
+
 .img-center {
     display: block;
     margin: auto;
@@ -62,4 +67,27 @@ div.page {
 
 .text-center {
     text-align: center;
+}
+
+figure.img-alignleft {
+    margin-left: 0;
+}
+
+figure.img-alignright {
+    margin-right: 0;
+}
+
+figure.img-center {
+    display: table;
+    margin: auto;
+}
+
+figure {
+    display: table;
+}
+
+figure figcaption {
+    font-style: italic;
+    display: table-caption;
+    caption-side: bottom;
 }
