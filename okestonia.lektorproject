@@ -11,7 +11,7 @@ name = English
 primary = yes
 locale = en_US
 
-[alternatives.ee]
+[alternatives.et]
 name = Estonian
-url_prefix = /ee/
-locale = ee
+url_prefix = /et/
+locale = et
