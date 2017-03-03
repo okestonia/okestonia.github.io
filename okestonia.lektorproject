@@ -4,7 +4,7 @@ name = okestonia
 [servers.manual]
 enabled = yes
 default = yes
-target = ghpages://okestonia/okestonia.github.io
+target = ghpages://okestonia/okestonia.github.io?cname=opendata.ee
 
 [alternatives.en]
 name = English
