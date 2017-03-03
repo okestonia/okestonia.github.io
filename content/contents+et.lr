@@ -1,3 +1,7 @@
-body: This is the welcome page (in Estonian).
+body:
+
+[Blog](http://localhost:5000/et/blog/)
+
+[Avaandmete päeval 2017 Tartus!](http://opendata.ee/opendataday/et/)
 ---
-title: Tere!
+title: Tere tulemast!
